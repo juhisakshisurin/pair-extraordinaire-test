@@ -9,3 +9,7 @@ A simple project for learning how branches, commits, and pull requests work.
 ## Status
 
 Currently being used for GitHub collaboration practice.
+
+## Collaboration
+
+This project is being used to learn GitHub collaboration workflows.
