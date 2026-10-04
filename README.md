@@ -1,3 +1,11 @@
-Update README with project description
+# Pair Extraordinaire Test
 
-Co-authored-by: JUHI SAKSHI <ashisansakshi@gmail.com>
+This repository is created to practice GitHub collaboration and pull requests.
+
+## About
+
+A simple project for learning how branches, commits, and pull requests work.
+
+## Status
+
+Currently being used for GitHub collaboration practice.
